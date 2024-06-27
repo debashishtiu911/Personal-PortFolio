@@ -26,7 +26,7 @@ const Contact = () => {
 
 
             </motion.p>
-            <a href="#" className='border-b'>
+            <a href={CONTACT.email} className='border-b'>
                 {CONTACT.email}
             </a>
 
