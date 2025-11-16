@@ -20,10 +20,36 @@ const Navbar = () => {
               >
                 <FaLinkedinIn />
               </a>
+          <a
+                href="https://www.linkedin.com/in/debashish-tiu-34a742249"
+                
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaInstagram/>
+              </a>
+          <a
+                href="https://www.linkedin.com/in/debashish-tiu-34a742249"
+                
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+             <FaGithub/>
+                
+              </a>
+           <a
+                href="https://www.x.com"
+                
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+             <FaTwitter/>
+                
+              </a>
           
-          <FaGithub/>
-          <FaInstagram/>
-          <FaTwitter/>
+         
+          
+          
         </div>
     </nav>
     
