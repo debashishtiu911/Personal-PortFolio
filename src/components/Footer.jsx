@@ -13,9 +13,7 @@ function Footer() {
   return (
     <Container fluid className="footer  flex">
       <Row >
-        <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Debashish Tiu</h3>
-        </Col>
+        
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} SB</h3>
         </Col>
